@@ -41,7 +41,5 @@ You can explore the deployed Oracle APEX application here:
 
 ## Report
 
-The full technical report (including ER diagrams, schema design, SQL queries, and normalization process) is available in this repository: [`Movie_Music_Database_Technical_Report.pdf`](./Movie_Music_Database_Technical_Report.pdf)
-
----
+The full technical report (including ER diagrams, schema design, SQL queries, and normalization process) is available in this repository.
 
